@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project focuses on the bank reconciliation and month-end close process using Microsoft Excel, Power Query, SQL, and Power BI.
+This project focuses on the bank reconciliation and month-end close process using Microsoft Excel, Power Query and Power BI.
 
 The aim was to reconcile bank statement transactions with General Ledger records, identify exceptions and unmatched transactions, and present reconciliation results through clear financial reporting dashboards.
 
@@ -39,13 +39,6 @@ To simulate a practical month-end reconciliation process by comparing bank trans
 * Combining and cleaning transaction data
 * Supporting the reconciliation process
 
-### SQL
-
-* Transaction-level data analysis
-* Filtering and aggregation
-* Reconciliation-related queries
-* Exception analysis
-
 ### Microsoft Power BI
 
 * Data visualization
@@ -69,15 +62,14 @@ To simulate a practical month-end reconciliation process by comparing bank trans
 | `Automated Bank Reconciliation & Month-End Close.xlsx` | Excel reconciliation analysis        |
 | `subledger.csv`                                        | Subledger transaction data           |
 | `gl.csv`                                               | General Ledger transaction data      |
-| `revenue_recon.db`                                     | SQLite reconciliation database       |
-| `SQL Queries`                                          | SQL queries used for data analysis   |
+| `revenue_recon.db`                                     | SQLite reconciliation database       |  |
 | `Power BI Dashboard`                                   | Interactive reconciliation reporting |
 | `Reconciliation Dashboard.png`                         | Dashboard preview                    |
 
 ## 🎯 Skills Demonstrated
 
-**Bank Reconciliation | Month-End Close | Account Reconciliation | Exception Analysis | Financial Reporting | Excel | Power Query | SQL | Power BI | Data Analysis | KPI Reporting**
+**Bank Reconciliation | Month-End Close | Account Reconciliation | Exception Analysis | Financial Reporting | Excel | Power Query | Power BI | Data Analysis | KPI Reporting**
 
 ## 📌 Business Value
 
-This project demonstrates how Excel, Power Query, SQL, and Power BI can be used to support bank reconciliation and month-end close activities by preparing transaction data, identifying exceptions, analysing differences, and presenting reconciliation results for financial review.
+This project demonstrates how Excel, Power Query and Power BI can be used to support bank reconciliation and month-end close activities by preparing transaction data, identifying exceptions, analysing differences, and presenting reconciliation results for financial review.
