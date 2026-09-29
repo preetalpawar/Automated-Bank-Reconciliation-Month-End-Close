@@ -62,7 +62,6 @@ To simulate a practical month-end reconciliation process by comparing bank trans
 | `Automated Bank Reconciliation & Month-End Close.xlsx` | Excel reconciliation analysis        |
 | `subledger.csv`                                        | Subledger transaction data           |
 | `gl.csv`                                               | General Ledger transaction data      |
-| `revenue_recon.db`                                     | SQLite reconciliation database       |  |
 | `Power BI Dashboard`                                   | Interactive reconciliation reporting |
 | `Reconciliation Dashboard.png`                         | Dashboard preview                    |
 
