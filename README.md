@@ -2,73 +2,66 @@
 
 ## 📊 Project Overview
 
-This project focuses on the bank reconciliation and month-end close process using Microsoft Excel, Power Query and Power BI.
+This project simulates a practical bank-to-GL reconciliation and month-end close process using Excel, Power Query, Power BI, SQL and Python.
 
-The aim was to reconcile bank statement transactions with General Ledger records, identify exceptions and unmatched transactions, and present reconciliation results through clear financial reporting dashboards.
+The project compares bank statement transactions with General Ledger records, identifies reconciliation exceptions, and presents the results through financial reporting and dashboards.
 
 ## 📌 Project Objective
 
-To simulate a practical month-end reconciliation process by comparing bank transactions with General Ledger data, identifying discrepancies, analysing exceptions, and preparing a summary to support the financial close process.
+To reconcile bank and General Ledger transactions, identify matched, unmatched and amount-mismatch items, analyse exceptions, and prepare outputs to support the month-end close process.
 
 ## 🔍 What I Analysed
 
-* Bank Statement vs General Ledger transactions
-* Matched and unmatched transactions
-* Reconciliation exceptions
-* Transaction-level differences
-* Revenue and reconciliation data
-* Quarterly and segment-level information
-* Exception identification
-* Reconciliation summary
-* Month-end close reporting
+- Bank Statement vs General Ledger transactions
+- Matched, unmatched and amount-mismatch transactions
+- Transaction-level differences and exceptions
+- Reconciliation summary and outstanding items
+- Month-end close reporting
 
 ## 🛠️ Tools Used
 
-### Microsoft Excel
+**Microsoft Excel & Power Query**
+- Data preparation and reconciliation
+- Transaction matching
+- Exception identification
+- Reconciliation summaries
 
-* Transaction reconciliation
-* Data analysis
-* Exception identification
-* Reconciliation summaries
-* Financial reporting
+**Microsoft Power BI**
+- Reconciliation dashboards
+- KPI reporting
+- Exception visualization
 
-### Power Query
+**SQL**
+- Bank-to-GL transaction matching
+- Basic JOIN and validation queries
+- Exception and mismatch identification
 
-* Data import and transformation
-* Data preparation
-* Combining and cleaning transaction data
-* Supporting the reconciliation process
-
-### Microsoft Power BI
-
-* Data visualization
-* Reconciliation reporting
-* KPI analysis
-* Interactive dashboards
-* Exception and trend analysis
-
-## 💡 Key Findings
-
-* Bank statement transactions were compared against General Ledger records to identify matched and unmatched items.
-* Reconciliation exceptions were analysed to highlight transactions requiring further review.
-* Transaction-level analysis helped identify differences between bank and ledger records.
-* Quarterly and segment-level analysis provided additional visibility into reconciliation activity.
-* The reconciliation summary supports review of outstanding items during the month-end close process.
+**Python / Pandas**
+- Loading and analysing transaction data
+- Transaction matching
+- Difference calculation
+- Basic exception classification
 
 ## 📁 Project Files
 
-| **File**                                               | **Description**                      |
-| ------------------------------------------------------ | ------------------------------------ |
-| `Automated Bank Reconciliation & Month-End Close.xlsx` | Excel reconciliation analysis        |
-| `subledger.csv`                                        | Subledger transaction data           |
-| `gl.csv`                                               | General Ledger transaction data      |
-| `Power BI Dashboard`                                   | Interactive reconciliation reporting |
-| `Reconciliation Dashboard.png`                         | Dashboard preview                    |
+| File / Folder | Description |
+|---|---|
+| `Python/` | Python analysis and transaction data |
+| `SQL/` | SQL reconciliation queries |
+| `Automated Bank Reconciliation & Month-End Close.pbix` | Power BI dashboard |
+| `Automated Bank Reconciliation & Month-End Close.xlsx` | Excel reconciliation analysis |
+| `Finance Transformation BRD docs` | Business Requirements Document |
+| `Finance Transformation Test Cases Excel` | Reconciliation test cases |
+| `Final Reconciliation Output.csv` | Complete reconciliation results |
+| `Reconciliation Exceptions.csv` | Identified reconciliation exceptions |
+| `Unmatched GL Transactions.csv` | Unmatched GL transactions |
+| `Management Close Summary.png` | Management close summary |
+| `Reconciliation Overview.png` | Reconciliation overview |
 
 ## 🎯 Skills Demonstrated
 
-**Bank Reconciliation | Month-End Close | Account Reconciliation | Exception Analysis | Financial Reporting | Excel | Power Query | Power BI | Data Analysis | KPI Reporting**
+Bank Reconciliation | GL Reconciliation | Month-End Close | Exception Analysis | Financial Reporting | Excel | Power Query | Power BI | SQL | Python/Pandas | Data Validation | Requirements Documentation
 
-## 📌 Business Value
+## 💡 Business Value
 
-This project demonstrates how Excel, Power Query and Power BI can be used to support bank reconciliation and month-end close activities by preparing transaction data, identifying exceptions, analysing differences, and presenting reconciliation results for financial review.
+This project demonstrates a practical approach to reconciling finance data, identifying exceptions and supporting month-end close activities through structured analysis and reporting.
