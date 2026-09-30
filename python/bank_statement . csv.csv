@@ -1,0 +1,16 @@
+Transaction ID,Date,Description,Reference,Debit,Credit
+B001,1-Sep-26,Customer Receipt,INV1001,0,50000
+B002,2-Sep-26,Rent Payment,RENT0901,20000,0
+B003,3-Sep-26,Bank Charges,CHG0901,500,0
+B004,4-Sep-26,Customer Receipt,INV1002,0,75000
+B005,5-Sep-26,Office Supplies,OFF0901,8500,0
+B006,6-Sep-26,Customer Receipt,INV1003,0,42000
+B007,7-Sep-26,Utility Payment,UTIL0901,6500,0
+B008,8-Sep-26,Customer Receipt,INV1004,0,62000
+B009,9-Sep-26,Bank Charges,CHG0902,750,0
+B010,10-Sep-26,Insurance Payment,INS0901,12000,0
+B011,11-Sep-26,Customer Receipt,INV1005,0,38000
+B012,12-Sep-26,Supplier Payment,SUP0901,15500,0
+B013,13-Sep-26,Customer Receipt,INV1006,0,91000
+B014,14-Sep-26,Payroll Payment,PAY0901,28000,0
+B015,15-Sep-26,Customer Receipt,INV1007,0,47000

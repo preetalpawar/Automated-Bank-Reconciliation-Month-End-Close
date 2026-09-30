@@ -1,0 +1,15 @@
+GL ID,Date,Account,Description,Reference ,Amount
+GL001,1-Sep-26,Accounts Receivable,Customer Receipt,INV1001,50000
+GL002,2-Sep-26,Rent Expense,Rent Payment,RENT0901,20000
+GL003,4-Sep-26,Accounts Receivable,Customer Receipt,INV1002,75000
+GL004,5-Sep-26,Office Supplies,Office Supplies,OFF0901,8500
+GL005,6-Sep-26,Accounts Receivable,Customer Receipt,INV1003,42000
+GL006,7-Sep-26,Utilities,Utility Payment,UTIL0901,6500
+GL007,8-Sep-26,Accounts Receivable,Customer Receipt,INV1004,60000
+GL008,10-Sep-26,Insurance Expense,Insurance Payment,INS0901,12000
+GL009,11-Sep-26,Accounts Receivable,Customer Receipt,INV1005,38000
+GL010,12-Sep-26,Accounts Payable,Supplier Payment,SUP0901,15500
+GL011,13-Sep-26,Accounts Receivable,Customer Receipt,INV1006,91000
+GL012,14-Sep-26,Payroll Expense,Payroll Payment,PAY0901,28000
+GL013,15-Sep-26,Accounts Receivable,Customer Receipt,INV1007,47000
+GL014,16-Sep-26,Professional Fees,Consulting Payment,CONS0901,10000
