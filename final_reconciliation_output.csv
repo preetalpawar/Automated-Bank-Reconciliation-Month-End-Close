@@ -1,0 +1,16 @@
+Transaction ID,Date_x,Description_x,Reference,Debit,Credit,GL ID,Date_y,Account,Description_y,Amount,Bank Amount,Difference,Reconciliation Status
+B001,1-Sep-26,Customer Receipt,INV1001,0,50000,GL001,1-Sep-26,Accounts Receivable,Customer Receipt,50000.0,50000,0.0,Matched
+B002,2-Sep-26,Rent Payment,RENT0901,20000,0,GL002,2-Sep-26,Rent Expense,Rent Payment,20000.0,20000,0.0,Matched
+B003,3-Sep-26,Bank Charges,CHG0901,500,0,,,,,,500,,Unmatched
+B004,4-Sep-26,Customer Receipt,INV1002,0,75000,GL003,4-Sep-26,Accounts Receivable,Customer Receipt,75000.0,75000,0.0,Matched
+B005,5-Sep-26,Office Supplies,OFF0901,8500,0,GL004,5-Sep-26,Office Supplies,Office Supplies,8500.0,8500,0.0,Matched
+B006,6-Sep-26,Customer Receipt,INV1003,0,42000,GL005,6-Sep-26,Accounts Receivable,Customer Receipt,42000.0,42000,0.0,Matched
+B007,7-Sep-26,Utility Payment,UTIL0901,6500,0,GL006,7-Sep-26,Utilities,Utility Payment,6500.0,6500,0.0,Matched
+B008,8-Sep-26,Customer Receipt,INV1004,0,62000,GL007,8-Sep-26,Accounts Receivable,Customer Receipt,60000.0,62000,2000.0,Amount Mismatch
+B009,9-Sep-26,Bank Charges,CHG0902,750,0,,,,,,750,,Unmatched
+B010,10-Sep-26,Insurance Payment,INS0901,12000,0,GL008,10-Sep-26,Insurance Expense,Insurance Payment,12000.0,12000,0.0,Matched
+B011,11-Sep-26,Customer Receipt,INV1005,0,38000,GL009,11-Sep-26,Accounts Receivable,Customer Receipt,38000.0,38000,0.0,Matched
+B012,12-Sep-26,Supplier Payment,SUP0901,15500,0,GL010,12-Sep-26,Accounts Payable,Supplier Payment,15500.0,15500,0.0,Matched
+B013,13-Sep-26,Customer Receipt,INV1006,0,91000,GL011,13-Sep-26,Accounts Receivable,Customer Receipt,91000.0,91000,0.0,Matched
+B014,14-Sep-26,Payroll Payment,PAY0901,28000,0,GL012,14-Sep-26,Payroll Expense,Payroll Payment,28000.0,28000,0.0,Matched
+B015,15-Sep-26,Customer Receipt,INV1007,0,47000,GL013,15-Sep-26,Accounts Receivable,Customer Receipt,47000.0,47000,0.0,Matched

@@ -1,0 +1,4 @@
+Transaction ID,Date_x,Description_x,Reference,Debit,Credit,GL ID,Date_y,Account,Description_y,Amount,Bank Amount,Difference,Reconciliation Status
+B003,3-Sep-26,Bank Charges,CHG0901,500,0,,,,,,500,,Unmatched
+B008,8-Sep-26,Customer Receipt,INV1004,0,62000,GL007,8-Sep-26,Accounts Receivable,Customer Receipt,60000.0,62000,2000.0,Amount Mismatch
+B009,9-Sep-26,Bank Charges,CHG0902,750,0,,,,,,750,,Unmatched
